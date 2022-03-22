@@ -9,8 +9,8 @@ The player has a hammer that they use to hit moles. They will click their mouse 
 
 ## Class Diagram
 
-# Programming Project Proposal 2
-A description of the project
+# Racing Game
+The player controls a car that goes around a race track. They control the car using WASD and the arrow keys. As they are driving around the track there are power-ups that make the driver faster, freeze other cars, stop the clock, etc. They get a score at the end based on how fast they completed the course and what place they got.
 
 ## GUI Mockup #1 (Start Screen)
 
